@@ -19,7 +19,7 @@ At the terminal:
 * `python3 etl.py`
 
 ## Schema for Song Play Analysis
-edl_diagram.jpg
+![alt text](https://github.com/[awesomeness_a]/[sparkify]/blob/[main]/edl_diagram.jpg?raw=true)
 
 **Fact Table**
 1. **songplays** - records in log data associated with song plays i.e. records with page NextSong
