@@ -62,7 +62,7 @@ log_data/2018/11/2018-11-13-events.json
 ```
 
 And below is an example of what the data in a log file, 2018-11-12-events.json, looks like.
-log-data.png
+![alt text](https://github.com/awesomeness-a/sparkify/blob/main/log-data.png)
 
 
 ## Project Files
